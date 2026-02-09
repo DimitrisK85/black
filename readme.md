@@ -145,4 +145,4 @@ Example 3: Invalid Character
 go run main.go "53..7...." "6..195..." ".98....6." "8...6...3" "4..8.3..1" "7...2...6" ".6....28." "...419..5" "....8..a9"
 Error:
 
-Error: Error: Invaid character in your argument. Your argument must only contain numbers from 1 to 9 and for empty spaces do
+Error: Error: Invaid character in your argument. Your argument must only contain numbers from 1 to 9 and for empty spaces dots '.'. Your argument was a.
